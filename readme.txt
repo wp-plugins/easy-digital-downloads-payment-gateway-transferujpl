@@ -1,7 +1,7 @@
 === Easy Digital Downloads Payment Gateway - Transferuj.pl  ===
 Contributors: transferuj.pl
 Donate link: http://transferuj.pl/
-Tags: edd,easy digital downloads, transferuj, payment, polish gateway, polska brama p³atnoœci, bramka p³atnoœci, p³atnoœci internetowe
+Tags: edd,easy digital downloads, transferuj, payment, polish gateway, polska brama pÅ‚atnoÅ›ci, bramka pÅ‚atnoÅ›ci, pÅ‚atnoÅ›ci internetowe
 Requires at least: 2.3.5
 Tested up to: 4.1.1
 Stable tag: 1.0
@@ -10,17 +10,17 @@ Accept payments from all major polish banks directly on your Easy Digital Downlo
 
 == Description ==
 
-Brama p³atnoœci dla pluginu Easy Digital Downloads.
+Brama pÅ‚atnoÅ›ci dla pluginu Easy Digital Downloads.
 
-Transferuj.pl to system szybkich p³atnoœci online nale¿¹cy do spó³ki Krajowy Integrator P³atnoœci SA. Misj¹ przedsiêbiorstwa jest wprowadzanie oraz propagowanie nowatorskich metod p³atnoœci i rozwi¹zañ p³atniczych zapewniaj¹cych maksymaln¹ szybkoœæ i bezpieczeñstwo dokonywanych transakcji.
+Transferuj.pl to system szybkich pÅ‚atnoÅ›ci online naleÅ¼Ä…cy do spÃ³Å‚ki Krajowy Integrator PÅ‚atnoÅ›ci SA. MisjÄ… przedsiÄ™biorstwa jest wprowadzanie oraz propagowanie nowatorskich metod pÅ‚atnoÅ›ci i rozwiÄ…zaÅ„ pÅ‚atniczych zapewniajÄ…cych maksymalnÄ… szybkoÅ›Ä‡ i bezpieczeÅ„stwo dokonywanych transakcji.
 
-Jako lider technologiczny, Transferuj.pl oferuj¹ najwiêksz¹ liczbê metod p³atnoœci na rynku. W ofercie ponad 50 sposobów zap³aty znajd¹ Pañstwo m.in. najwiêkszy wybór e-transferów, Zintegrowan¹ Bramkê P³atnoœci Kartami, mobiln¹ galeriê handlow¹ RockPay oraz narzêdzie do zbiórek pieniê¿nych w sieci – serwis eHat.me. Dodatkowe funkcjonalnoœci systemu obejmuj¹ pe³en design w RWD, przelewy masowe oraz udostêpnione biblioteki mobilne i dodatki do przegl¹darek automatyzuj¹ce przelewy. Transferuj.pl oferuje równie¿ p³atnoœci odroczone, raty online Premium SMS oraz p³atnoœæ za pomoc¹ kodu QR.
+Jako lider technologiczny, Transferuj.pl oferujÄ… najwiÄ™kszÄ… liczbÄ™ metod pÅ‚atnoÅ›ci na rynku. W ofercie ponad 50 sposobÃ³w zapÅ‚aty znajdÄ… PaÅ„stwo m.in. najwiÄ™kszy wybÃ³r e-transferÃ³w, ZintegrowanÄ… BramkÄ™ PÅ‚atnoÅ›ci Kartami, mobilnÄ… galeriÄ™ handlowÄ… RockPay oraz narzÄ™dzie do zbiÃ³rek pieniÄ™Å¼nych w sieci â€“ serwis eHat.me. Dodatkowe funkcjonalnoÅ›ci systemu obejmujÄ… peÅ‚en design w RWD, przelewy masowe oraz udostÄ™pnione biblioteki mobilne i dodatki do przeglÄ…darek automatyzujÄ…ce przelewy. Transferuj.pl oferuje rÃ³wnieÅ¼ pÅ‚atnoÅ›ci odroczone, raty online Premium SMS oraz pÅ‚atnoÅ›Ä‡ za pomocÄ… kodu QR.
 
-Transferuj.pl zapewnia najwy¿szy poziom bezpieczeñstwa potwierdzony certyfikatem PCI DSS Level 1. System gwarantuje wygodê oraz mo¿liwoœæ natychmiastowej realizacji zamówienia. Oferta handlowa Transferuj.pl jest dok³adnie dopasowana do Twoich potrzeb.
+Transferuj.pl zapewnia najwyÅ¼szy poziom bezpieczeÅ„stwa potwierdzony certyfikatem PCI DSS Level 1. System gwarantuje wygodÄ™ oraz moÅ¼liwoÅ›Ä‡ natychmiastowej realizacji zamÃ³wienia. Oferta handlowa Transferuj.pl jest dokÅ‚adnie dopasowana do Twoich potrzeb.
 
-Transferuj.pl Online Payment System belongs to Krajowy Integrator P³atnoœci Inc. The company’s mission is to introduce and promote innovative payment methods and solutions ensuring maximum speed and safety of online transactions.
+Transferuj.pl Online Payment System belongs to Krajowy Integrator PÅ‚atnoÅ›ci Inc. The companyâ€™s mission is to introduce and promote innovative payment methods and solutions ensuring maximum speed and safety of online transactions.
 
-As technological leader, Transferuj.pl offers the largest number of payment methods on market. Among over 50 ways of finalizing transactions you will find the widest choice of direct online payments, Integrated Card Payment Gate, mobile shopping center – RockPay and group payments tool – eHat.me. Additional features include: RWD design, mass pay-outs, mobile libraries and payment automation application. You can also pay using postponed payment, online installments, Premium SMS and QR code payment.
+As technological leader, Transferuj.pl offers the largest number of payment methods on market. Among over 50 ways of finalizing transactions you will find the widest choice of direct online payments, Integrated Card Payment Gate, mobile shopping center â€“ RockPay and group payments tool â€“ eHat.me. Additional features include: RWD design, mass pay-outs, mobile libraries and payment automation application. You can also pay using postponed payment, online installments, Premium SMS and QR code payment.
 
 The highest level of security of payments processed by Transferuj.pl is verified by PCI DSS Level 1 certificate. System guarantees convenience and instant order execution. Our business offer is flexible and prepared according to your needs.
 
@@ -29,58 +29,58 @@ The highest level of security of payments processed by Transferuj.pl is verified
 
 = WYMAGANIA =
 
-Aby korzystaæ z p³atnoœci Transferuj.pl w platformie Woocommerce niezbêdne jest:
+Aby korzystaÄ‡ z pÅ‚atnoÅ›ci Transferuj.pl w platformie Woocommerce niezbÄ™dne jest:
 
 a)	Posiadanie konta w systemie Transferuj.pl
 b)	Aktywna wtyczka WooCommerce dla Wordpressa. 
-c)	Pobranie plików instalacyjnych modu³u z katalogu wtyczek Wordpress:
+c)	Pobranie plikÃ³w instalacyjnych moduÅ‚u z katalogu wtyczek Wordpress:
 
 
 
-= INSTALACJA MODU£U =
+= INSTALACJA MODUÅU =
 
 -  Instalacja automatyczna 
-a)	PrzejdŸ do „Wtyczki” nastêpnie „Dodaj now¹” i w miejscu „Szukaj wtyczek”  wyszukaj „Transferuj Gateway Easy Digital Downloads”
-b)	W „Wynikach wyszukiwania” pojawi siê modu³ p³atnoœci Transferuj, który nale¿y zainstalowaæ. 
+a)	PrzejdÅº do â€Wtyczkiâ€ nastÄ™pnie â€Dodaj nowÄ…â€ i w miejscu â€Szukaj wtyczekâ€  wyszukaj â€Transferuj Gateway Easy Digital Downloadsâ€
+b)	W â€Wynikach wyszukiwaniaâ€ pojawi siÄ™ moduÅ‚ pÅ‚atnoÅ›ci Transferuj, ktÃ³ry naleÅ¼y zainstalowaÄ‡. 
 
 
--  Instalacja rêczna 
-a)	PrzejdŸ do zak³adki „Wtyczki” i wybierz „Dodaj now¹”. Nastêpnie skorzystaj z opcji „Wyœlij wtyczkê na serwer”.
-b)	Wybierz pobrany modu³ Transferuj.pl i zainstaluj.
+-  Instalacja rÄ™czna 
+a)	PrzejdÅº do zakÅ‚adki â€Wtyczkiâ€ i wybierz â€Dodaj nowÄ…â€. NastÄ™pnie skorzystaj z opcji â€WyÅ›lij wtyczkÄ™ na serwerâ€.
+b)	Wybierz pobrany moduÅ‚ Transferuj.pl i zainstaluj.
  
 
-1.	PrzejdŸ do panelu administracyjnego i otwórz zak³adkê „Wtyczki”. Kliknij „W³¹cz” przy pozycji „Transferuj Gateway Easy Digital Download ”.
+1.	PrzejdÅº do panelu administracyjnego i otwÃ³rz zakÅ‚adkÄ™ â€Wtyczkiâ€. Kliknij â€WÅ‚Ä…czâ€ przy pozycji â€Transferuj Gateway Easy Digital Download â€.
   
 
-2.	PrzejdŸ do „Produkty cyfrowe” i wybierz „Ustawienia” .
+2.	PrzejdÅº do â€Produkty cyfroweâ€ i wybierz â€Ustawieniaâ€ .
 
-Po czym z listy dostêpnych opcji nale¿y wybraæ zak³adkê „Bramki p³atnoœci”. 
+Po czym z listy dostÄ™pnych opcji naleÅ¼y wybraÄ‡ zakÅ‚adkÄ™ â€Bramki pÅ‚atnoÅ›ciâ€. 
  
-Teraz nale¿y w³¹czyæ modu³ Transferuj zaznaczaj¹c dostêpne  przy nazwie pole:
- 
-
-Nastêpnie mo¿na przejœæ do ustawieñ modu³u, które znajduj¹ siê poni¿ej w sekcji  „Ustawienia dla Transferuj.pl”:
-
-a. Wyœwietlana nazwa – nale¿y wpisaæ Transferuj.pl
-b. ID Sprzedawcy – jest to ID nadane Sprzedawcy podczas rejestracji konta w systemie Transferuj.pl, s³u¿y jako login podczas logowania do Panelu Odbiorcy P³atnoœci w systemie Transferuj.pl
-c. Kod bezpieczeñstwa – kod, który jest dostêpny w Panelu Odbiorcy P³atnoœci w systemie Transferuj.pl w zak³adce „Ustawienia” -> „Powiadomienia” sekcja „Bezpieczeñstwo”. 
-d. Widok dla kana³ów p³atnoœci – opcja, która pozwala Sprzedawcy ustawiæ formê wyboru kana³u p³atnoœci przez Klienta sklepu. Dostêpne s¹ trzy warianty wyboru kana³u p³atnoœci, a zalecan¹ i jednoczeœnie metod¹ domyœln¹ jest opcja „Ikony banków na stronie sklepu”. Poni¿ej znajduje siê opis ka¿dej z opcji:
-
-•	Ikony banków na stronie sklepu – Klient po wybraniu metody p³atnoœci Transferuj.pl na stronie Sprzedawcy wybiera bank z którego chce skorzystaæ. Podczas wyboru s¹ prezentowane loga wszystkich dostêpnych banków. 
+Teraz naleÅ¼y wÅ‚Ä…czyÄ‡ moduÅ‚ Transferuj zaznaczajÄ…c dostÄ™pne  przy nazwie pole:
  
 
-•	Lista banków na stronie sklepu - Klient po wybraniu metody p³atnoœci Transferuj.pl na stronie Sprzedawcy wybiera bank z którego chce skorzystaæ. Podczas wyboru s¹ prezentowane nazwy wszystkich dostêpnych banków w formie listy rozwijanej.
+NastÄ™pnie moÅ¼na przejÅ›Ä‡ do ustawieÅ„ moduÅ‚u, ktÃ³re znajdujÄ… siÄ™ poniÅ¼ej w sekcji  â€Ustawienia dla Transferuj.plâ€:
+
+a. WyÅ›wietlana nazwa â€“ naleÅ¼y wpisaÄ‡ Transferuj.pl
+b. ID Sprzedawcy â€“ jest to ID nadane Sprzedawcy podczas rejestracji konta w systemie Transferuj.pl, sÅ‚uÅ¼y jako login podczas logowania do Panelu Odbiorcy PÅ‚atnoÅ›ci w systemie Transferuj.pl
+c. Kod bezpieczeÅ„stwa â€“ kod, ktÃ³ry jest dostÄ™pny w Panelu Odbiorcy PÅ‚atnoÅ›ci w systemie Transferuj.pl w zakÅ‚adce â€Ustawieniaâ€ -> â€Powiadomieniaâ€ sekcja â€BezpieczeÅ„stwoâ€. 
+d. Widok dla kanaÅ‚Ã³w pÅ‚atnoÅ›ci â€“ opcja, ktÃ³ra pozwala Sprzedawcy ustawiÄ‡ formÄ™ wyboru kanaÅ‚u pÅ‚atnoÅ›ci przez Klienta sklepu. DostÄ™pne sÄ… trzy warianty wyboru kanaÅ‚u pÅ‚atnoÅ›ci, a zalecanÄ… i jednoczeÅ›nie metodÄ… domyÅ›lnÄ… jest opcja â€Ikony bankÃ³w na stronie sklepuâ€. PoniÅ¼ej znajduje siÄ™ opis kaÅ¼dej z opcji:
+
+â€¢	Ikony bankÃ³w na stronie sklepu â€“ Klient po wybraniu metody pÅ‚atnoÅ›ci Transferuj.pl na stronie Sprzedawcy wybiera bank z ktÃ³rego chce skorzystaÄ‡. Podczas wyboru sÄ… prezentowane loga wszystkich dostÄ™pnych bankÃ³w. 
  
 
-•	Przekierowanie na Transferuj.pl – Klient po wybraniu metody p³atnoœci Transferuj.pl na stronie Sprzedawcy zostaje przekierowany do Panelu Transakcyjnego na stronê Transferuj.pl, gdzie dokonuje wyboru kana³u p³atnoœci. 
+â€¢	Lista bankÃ³w na stronie sklepu - Klient po wybraniu metody pÅ‚atnoÅ›ci Transferuj.pl na stronie Sprzedawcy wybiera bank z ktÃ³rego chce skorzystaÄ‡. Podczas wyboru sÄ… prezentowane nazwy wszystkich dostÄ™pnych bankÃ³w w formie listy rozwijanej.
+ 
+
+â€¢	Przekierowanie na Transferuj.pl â€“ Klient po wybraniu metody pÅ‚atnoÅ›ci Transferuj.pl na stronie Sprzedawcy zostaje przekierowany do Panelu Transakcyjnego na stronÄ™ Transferuj.pl, gdzie dokonuje wyboru kanaÅ‚u pÅ‚atnoÅ›ci. 
 
 
 
 = Testy =
 
-Modu³ by³ testowany na systemie zbudowanym z wersji Easy Digital Downloads 2.3.5 i Wordpress 4.1.
+ModuÅ‚ byÅ‚ testowany na systemie zbudowanym z wersji Easy Digital Downloads 2.3.5 i Wordpress 4.1.
 
 
 = KONTAKT =
 
-W razie potrzeby odpowiedzi na pytania powsta³e podczas lektury lub szczegó³owe wyjaœnienie kwestii technicznych prosimy o kontakt poprzez formularz znajduj¹cy siê w Panelu Odbiorcy lub na adres e-mail: pt@transferuj.pl 
+W razie potrzeby odpowiedzi na pytania powstaÅ‚e podczas lektury lub szczegÃ³Å‚owe wyjaÅ›nienie kwestii technicznych prosimy o kontakt poprzez formularz znajdujÄ…cy siÄ™ w Panelu Odbiorcy lub na adres e-mail: pt@transferuj.pl 
